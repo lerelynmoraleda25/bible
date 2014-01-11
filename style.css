@@ -1,0 +1,32 @@
+.form{
+	margin-bottom:50px 50px;
+}
+.status{
+	margin-right: 50px 50px;
+}
+.thumbnail{
+	background-color: skyblue;
+}
+.result{
+	height: 300px;
+}
+.thumbnail{
+	background:url('img/yen4.jpg');
+}
+.yen{
+	font-size: 25px;
+	color: white;
+	font-weight: bold;
+}
+select#books{
+	font-weight: bold;
+	font-family: Century Gothic;
+}
+.len{
+	color: white;
+	font-weight: bold;
+
+}
+div#verse_text{
+	line-height: 30px;
+}
